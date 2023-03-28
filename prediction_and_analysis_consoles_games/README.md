@@ -19,4 +19,7 @@ Rating — рейтинг от организации ESRB (англ. Entertainm
 
 ## Используемые библиотеки
 *pandas* <br>
-*seaborn*
+*seaborn* <br>
+*numpy* <br>
+*mathplotlib* <br>
+*scipy*
