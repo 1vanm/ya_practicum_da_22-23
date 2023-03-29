@@ -31,4 +31,4 @@ visitors — количество пользователей в указанну
 *numpy* <br>
 *mathplotlib* <br>
 *datetime* <br>
-*scipy.stats*
+*scipy*

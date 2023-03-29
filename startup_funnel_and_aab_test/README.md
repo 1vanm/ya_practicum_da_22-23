@@ -23,4 +23,4 @@ visitors — количество пользователей в указанну
 *datetime* <br>
 *plotly* <br>
 *math* <br>
-*scipy.*
+*scipy*
