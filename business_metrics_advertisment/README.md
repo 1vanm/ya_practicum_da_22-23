@@ -1,6 +1,5 @@
 ## Данные
 
-Описание данных:<br>
 Файл visits_info_short.csv хранит лог сервера с информацией о посещениях сайта, orders_info_short.csv — информацию о заказах, а costs_info_short.csv — информацию о расходах на рекламу. <br>
 <br>
 Структура visits_info_short.csv: <br>
