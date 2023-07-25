@@ -42,4 +42,5 @@ seats — количество посадочных мест.<br>
 *datetime* <br>
 *plotly* <br>
 *math* <br>
-*scipy*
+*scipy* <br>
+*folium*
