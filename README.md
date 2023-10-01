@@ -7,4 +7,8 @@
   [Анализ убытков приложения](business_metrics_advertisment) | Несмотря на огромные вложения в рекламу, последние несколько месяцев компания терпит убытки. <br> Задача — разобраться в причинах и помочь компании выйти в плюс. | *pandas*, *seaborn*, *numpy*, *mathplotlib*, *datetime* |
   [Проверка гипотез по увеличению выручки в интернет-магазине](hypothesis_and_ab_test) | Приоритизировать гипотезы, запустить A/B-тест и проанализировать результаты.| *pandas*, *seaborn*, *numpy*, *mathplotlib*, *datetime*, *scipy* |
   [Анализ пользовательского поведения в мобильном приложении](startup_funnel_and_aab_test) | Изучить воронку продаж. Исследовать результаты A/A/B-эксперимента| *pandas*, *seaborn*, *numpy*, *mathplotlib*, *datetime*, *plotly*, *math*, *scipy* |
-[Исследование рынка общепита Москвы](opening_of_cafe) | Изучить рынок. Предложить выгодное место для открытия кофейни | *pandas*, *seaborn*, *numpy*, *mathplotlib*, *datetime*, *plotly*, *math*, *scipy*, *folium*
+  [Исследование рынка общепита Москвы](opening_of_cafe) | Изучить рынок. Предложить выгодное место для открытия кофейни | *pandas*, *seaborn*, *numpy*, *mathplotlib*, *datetime*, *plotly*, *math*, *scipy*, *folium*
+  [Дашборд для Дзена](dashboard_for_DZEN) | Создать дашборд для регулярной отчетности
+  [Модель монетизации игрового приложения](monetization_model_mobile_game) | Обработать массив данных и сформировать модель монетизации игрового приложения | *pandas*, *seaborn*, *numpy*, *mathplotlib*, *scipy*
+  [Оценка результатов A/B теста](analasys_of_AB_test) | Провести оценку результатов A/B-теста. Оценить корректность проведения теста и проанализировать его результаты | *pandas*, *seaborn*, *numpy*, *mathplotlib*, *plotly*, *statsmodels*, *math* *scipy*
+[SQL проект](SQL_project) | Проанализировать базу данных. Сформулировать ценностное предложение для нового продукта | *pandas*, *sqlalchemy*
